@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - features/PatchNotes/patchNotesData.json
-      - .github/scripts/create-release.js
+      - .github/scripts/create-release.cjs
 
 permissions:
   contents: write
@@ -23,6 +23,6 @@ jobs:
           fetch-depth: 0
 
       - name: Create GitHub Release
-        run: node .github/scripts/create-release.js
+        run: node .github/scripts/create-release.cjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
