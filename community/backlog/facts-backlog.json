@@ -62,7 +62,7 @@
   {
     "id": 11,
     "fact": "Japan's postal system has a special service where you can mail a letter to your future self, and they'll deliver it years later on the date you specify.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -398,7 +398,7 @@
   {
     "id": 67,
     "fact": "There's a Japanese practice called 'kuuki wo yomu' (空気を読む) - reading the air - understanding unspoken social cues.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -470,7 +470,7 @@
   {
     "id": 79,
     "fact": "The Japanese word 'nomunication' combines 'nomu' (drink) and 'communication' - bonding with colleagues over after-work drinks.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -740,7 +740,7 @@
   {
     "id": 124,
     "fact": "Japan has 'Peko-chan' - a cartoon mascot for Fujiya confectionery since 1950, whose tongue-sticking pose has become an iconic symbol recognized by nearly all Japanese people.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -980,7 +980,7 @@
   {
     "id": 164,
     "fact": "Japan has 'namahage' - demons who visit homes on New Year's Eve to scare children into behaving well.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1202,7 +1202,7 @@
   {
     "id": 201,
     "fact": "Japan has a word 'tsundoku' (積ん読) for buying books and letting them pile up unread.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "id": 274,
     "fact": "The word 'yuigahama' appears in coastal place names, referencing a long, gently sloping beach.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1664,7 +1664,7 @@
   {
     "id": 278,
     "fact": "The word 'mikan' (未完) means incomplete, and it's sometimes used by artists to describe works intentionally left open-ended.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
